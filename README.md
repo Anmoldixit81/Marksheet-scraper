@@ -6,7 +6,7 @@ A Python-based deep learning project to **automatically detect and parse text fr
 
 ## Approach Visualization
 
-![Output Screenshot](https://github.com/anmol-dixit/Marksheet_Processor/blob/main/SS.png)
+![Output Screenshot](https://github.com/Anmoldixit81/Marksheet_Processor/blob/main/SS.png)
 
 ---
 

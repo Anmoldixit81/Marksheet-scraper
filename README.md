@@ -6,7 +6,7 @@ A Python-based deep learning project to **automatically detect and parse text fr
 
 ## Approach Visualization
 
-![Output Screenshot](https://github.com/pratham-asthana/Marksheet_Processor/blob/main/SS.png)
+![Output Screenshot](https://github.com/anmol-dixit/Marksheet_Processor/blob/main/SS.png)
 
 ---
 
@@ -87,9 +87,9 @@ Run the inference code in `Marksheet_parsing.ipynb` to detect and extract text f
 
 ## Author
 
-**Pratham Asthana**
-📧 [prathamasthana04@gmail.com](mailto:prathamasthana04@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/pratham-asthana-243133265) • [GitHub](https://github.com/pratham-asthana)
+**Anmol Dixit**
+📧 [dixitanmol81@gmail.com](mailto:dixitanmol81@gmail.com)
+🔗 [LinkedIn](https://www.linkedin.com/in/anmol-dixit-322167321/) • [GitHub](https://github.com/Anmoldixit81)
 
 ---
 
